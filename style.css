@@ -42,10 +42,6 @@ table {
   width: 100%;
 }
 
-.hight5-6 {
-  height: 200px;
-}
-
 /* таблица2 */
 
 
@@ -77,12 +73,10 @@ td {
   width: 90%;
 }
 
-.h-200 {
-  height: 200%;
-}
-
-
-
 .w-80 {
   width: 80%;
+}
+
+.h-200 {
+  height: 200px;
 }
